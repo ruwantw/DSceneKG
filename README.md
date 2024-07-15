@@ -5,7 +5,7 @@ This repository contains Knowledge Graphs developed to represent driving scenes 
 
 
 ## Highlights: 
-1. DSceneKG is conformant to the domain-specific ontology, Driving Scenes Ontology [DSO](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8656233/) that represents the semantic structure of the scenes.
+1. DSceneKG is conformant to the domain-specific ontology, Driving Scenes Ontology ([DSO](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8656233/)) that represents the semantic structure of the scenes.
 2. In the DSO, scenes are categorized into two types: (1) Sequence Scene – A video of 10-20 seconds, with a location region and temporal range; (2) Frame Scene – A sampled snapshot from the video, with a location point and timestamp.![Alt text](figs/Scene-Structure.png)
 3. All annotated scenes are then instantiated as a Knowledge Graph as shown below:
 ![Alt text](figs/DSceneKG-Inst.png)
