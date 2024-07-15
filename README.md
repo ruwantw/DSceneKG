@@ -11,7 +11,7 @@ This repository contains Knowledge Graphs developed to represent driving scenes 
 3. All annotated scenes are then instantiated as a Knowledge Graph as shown below:
 ![Alt text](figs/DSceneKG-Inst.png)
 
-4. Accessing DSceneKG:
+## Accessing DSceneKG:
 - Download [```DSceneKG-Pandaset.ttl```](https://drive.google.com/file/d/15pI4J3WYeoD4uBsbtUNIh51eegVThOAe/view?usp=sharing). This contains the turtle serialized full KG developed from the scene data in [Pandaset](https://pandaset.org/) dataset.
 
 
