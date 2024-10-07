@@ -30,3 +30,13 @@ This repository contains Knowledge Graphs developed to represent driving scenes 
 5. Jaimini, U., & Sheth, A. (2022). CausalKG: Causal Knowledge Graph Explainability using interventional and counterfactual reasoning. IEEE Internet Computing, 26(1), 43-50.
 6. Wei, D., Gao, T., Jia, Z., Cai, C., Hou, C., Jia, P., ... & Wang, Y. (2024). BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving. arXiv preprint arXiv:2401.01065.
 
+## Citation
+Please use the following citation when referring to DSceneKG:
+```
+@inproceedings{wickramarachchi2024benchmark,
+  title = {A Benchmark Knowledge Graph of Driving Scenes for Knowledge Completion Tasks},
+  author = {Wickramarachchi, Ruwan and Henson, Cory and Sheth, Amit},
+  booktitle = {The 23rd International Semantic Web Conference (ISWC)},
+  year = {2024},
+}
+```
