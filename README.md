@@ -12,6 +12,7 @@ This repository contains Knowledge Graphs developed to represent driving scenes 
 
 ## Accessing DSceneKG
 - Download [```DSceneKG-Pandaset.ttl```](https://drive.google.com/file/d/15pI4J3WYeoD4uBsbtUNIh51eegVThOAe/view?usp=sharing). This contains the turtle serialized full KG developed from the scene data in [Pandaset](https://pandaset.org/) dataset.
+- DSceneKG enhanced with **commonsense relations** [3] --  an extension of ```DSceneKG-Pandaset.ttl``` enhanced with commonsense relations from  [ConceptNet](https://github.com/commonsense/conceptnet), [WebChild](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/commonsense/webchild/), [Quasi-mododo](https://github.com/Aunsiels/CSK) and [CSKG](https://github.com/usc-isi-i2/cskg). Dowonload turtle serialized KG [```pandaset_ad_csk.ttl```](https://github.com/boschresearch/ad_cskg/blob/main/pandaset_ad_csk.ttl).
 
 
 ## Use-cases of DSceneKG
